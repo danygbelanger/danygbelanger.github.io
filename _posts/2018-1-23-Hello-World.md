@@ -31,6 +31,7 @@ These devlogs are mostly point form and basically reflects how I think about thi
     + Classifications
     + Boxes neatly set up
     + Somewhat emulating the violence that happened to the victims?
+    
 4. GitHub
   * Fork
     + Put it on your website or w/e
@@ -38,6 +39,7 @@ These devlogs are mostly point form and basically reflects how I think about thi
     + Put it on your PC
   * Gh-pages branch
     + Treats it like a living page
+    
 5. Most web design mumbo jumbo is BS
   * But some of it is actually useful
   * Triangle
@@ -48,6 +50,7 @@ These devlogs are mostly point form and basically reflects how I think about thi
 
 7. Possible projects
   * Forcing the story of the Elgin hotel on the box
+  
 8. Creating soundscapes?
   * History of people who are buried across Ottawa
   * But same issues than audiowalks, timing for walk/run
