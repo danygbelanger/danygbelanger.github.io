@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018-1-23-Test
+title: 2018-1-23-Devlog 1
 ---
 
 ## Devlog 1
