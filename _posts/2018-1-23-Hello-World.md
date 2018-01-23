@@ -5,7 +5,7 @@ title: 2018-1-23-Test
 
 ## Devlog 1
 
-These devlogs are mostly point form and basically reflects how I think about things. They document both what I learned and ideas that cross my mind. I make lists becuase my thoughts are usually in complete chaos, and organising them like that is a way to convince myself that it all makes sense.
+These devlogs are mostly point form and basically reflect how I think about things. They document both what I learned and ideas that cross my mind. I make lists because my thoughts are usually in complete chaos, and organising them like that is a way to convince myself that it all makes sense.
 
 ### Week 2: Devlog 1 (Jan 17, 2018)
 
