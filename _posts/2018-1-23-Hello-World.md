@@ -50,4 +50,4 @@ These devlogs are mostly point form and basically reflects how I think about thi
   * Forcing the story of the Elgin hotel on the box
 8. Creating soundscapes?
   * History of people who are buried across Ottawa
-  *But same issues than audiowalks, timing for walk/run
+  * But same issues than audiowalks, timing for walk/run
