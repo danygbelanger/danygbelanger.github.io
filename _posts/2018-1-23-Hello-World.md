@@ -25,6 +25,7 @@ These devlogs are mostly point form and basically reflects how I think about thi
   * Potential uses
     + Rewriting the purpose of a space
 2. Mapmap for projecting stuff
+
 3. Act of creating categories (data arrangement) is problematic --> male/female, what about the rest
   * Room with database of holocaust victims, the way they are set up reminds camps
     + Classifications
@@ -44,6 +45,7 @@ These devlogs are mostly point form and basically reflects how I think about thi
     + Ideation		
     + Implementation
 6. Digital connects to physical and then relates to digital then back to physical and circles that way constantly
+
 7. Possible projects
   * Forcing the story of the Elgin hotel on the box
 8. Creating soundscapes?
