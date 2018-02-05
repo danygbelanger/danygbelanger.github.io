@@ -16,7 +16,7 @@ These devlogs are mostly point form and basically reflect how I think about thin
     + How to do Guerilla Public History without the fear of losing job opportunities
 3. Mapinators, new word we came up with. We can only hope it will catch on.
 
-#### Thoughts:
+* Thoughts:
 
 I had resigned myself even before I started. I thought that I could not do something relating to my research, but I had not talked to enough people, or the right person. I feel this is probably why so many novel projects and ideas don't come to fruition. 
 
