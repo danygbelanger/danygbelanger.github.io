@@ -8,6 +8,6 @@ Dany Guay-Bélanger is a Master's student in Public History at Carleton Universi
 
 ### Contact me (click on the icon below)
 
-[danygbelanger@gmail.com](mailto:danygbelanger@gmail.com)
+Email: [danygbelanger@gmail.com](mailto:danygbelanger@gmail.com)
 
-[@danygbelanger](https://twitter.com/Danygbelanger)
+Twitter: [@danygbelanger](https://twitter.com/Danygbelanger)
