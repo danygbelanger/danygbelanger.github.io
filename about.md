@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Dany Guay-Bélanger is a Master's student in Public History at Carleton University. His focus is on videogame preservation and analysis. Dany's major research project develops and applies a methodology for the preservation of old games. It will be freely available as a podcast or script on deadplay.net (coming soon!).
 
-### More Information
+### Contact me (click on the icon below)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[danygbelanger@gmail.com](mailto:danygbelanger@gmail.com)
+twitter: @danygbelanger
