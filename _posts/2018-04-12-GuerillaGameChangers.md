@@ -29,29 +29,27 @@ title: 2018-04-12 Guerilla Game Changers
 
 ![Trigger 6](https://danygbelanger.github.io/images/12.PNG)
 
-![Overlay 6](https://danygbelanger.github.io/images/12.PNG)
+![Overlay 6](https://danygbelanger.github.io/images/13.PNG)
 
-![Trigger 7](https://danygbelanger.github.io/images/13.PNG)
+![Trigger 7](https://danygbelanger.github.io/images/14.PNG)
 
-![Overlay 7](https://danygbelanger.github.io/images/14.PNG)
+![Overlay 7](https://danygbelanger.github.io/images/15.PNG)
 
-![Trigger 8](https://danygbelanger.github.io/images/15.PNG)
+![Trigger 8](https://danygbelanger.github.io/images/16.PNG)
 
-![Overlay 8](https://danygbelanger.github.io/images/16.PNG)
+![Overlay 8](https://danygbelanger.github.io/images/17.PNG)
 
-![Trigger 9](https://danygbelanger.github.io/images/17.PNG)
+![Trigger 9](https://danygbelanger.github.io/images/18.PNG)
 
-![Overlay 9](https://danygbelanger.github.io/images/18.PNG)
+![Overlay 9](https://danygbelanger.github.io/images/19.PNG)
 
-![Trigger 10](https://danygbelanger.github.io/images/19.PNG)
+![Trigger 10](https://danygbelanger.github.io/images/20.PNG)
 
-![Overlay 10](https://danygbelanger.github.io/images/20.PNG)
+![Overlay 10](https://danygbelanger.github.io/images/21.PNG)
 
-![Trigger 11](https://danygbelanger.github.io/images/21.PNG)
+![Trigger 11](https://danygbelanger.github.io/images/22.PNG)
 
-![Overlay 11](https://danygbelanger.github.io/images/22.PNG)
-
-![Trigger 12](https://danygbelanger.github.io/images/23.PNG)
+![Overlay 11](https://danygbelanger.github.io/images/23.PNG)
 
 [![Combat footage](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
 
