@@ -17,11 +17,11 @@ title: 2018-04-12 Guerilla Game Changers
 
 ![Trigger 3](https://danygbelanger.github.io/images/6.PNG)
 
-![[Overlay 3](https://danygbelanger.github.io/images/7.PNG)](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
+![Overlay 3](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
 
 ![Trigger 4](https://danygbelanger.github.io/images/8.PNG)
 
-![[Overlay 4](https://danygbelanger.github.io/images/9.PNG)](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=500&end=510)
+![Overlay 4](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=500&end=510)
 
 ![Trigger 5](https://danygbelanger.github.io/images/10.PNG)
 
@@ -50,7 +50,3 @@ title: 2018-04-12 Guerilla Game Changers
 ![Trigger 11](https://danygbelanger.github.io/images/22.PNG)
 
 ![Overlay 11](https://danygbelanger.github.io/images/23.PNG)
-
-[![Combat footage](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
-
-[![Navigation footage](https://www.youtube.com/watch?v=wL68uw_RQow/0.jpg)](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=500&end=510)
