@@ -19,7 +19,7 @@ title: 2018-04-12 Guerilla Game Changers
 
 ![Overlay 3](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
 
-![Trigger 4](https://danygbelanger.github.io/images/8.PNG)
+![Trigger 4](https://danygbelanger.github.io/images/7.PNG)
 
 ![Overlay 4](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=500&end=510)
 
