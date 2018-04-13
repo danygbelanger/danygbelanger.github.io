@@ -9,7 +9,7 @@ title: 2018-04-12 Guerilla Game Changers
 
 ![Trigger 1](https://danygbelanger.github.io/images/2.PNG)
 
-![Overlay 1]( danygbelanger.github.io/images/overlay1.PNG)
+![Overlay 1](https://danygbelanger.github.io/images/overlay1.PNG)
 
 ![Trigger 2](https://danygbelanger.github.io/images/3.PNG)
 
