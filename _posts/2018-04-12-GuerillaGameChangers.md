@@ -9,13 +9,15 @@ title: 2018-04-12 Guerilla Game Changers
 
 ![Trigger 1](https://danygbelanger.github.io/images/2.PNG)
 
-![Overlay 1](https://danygbelanger.github.io/images/3.PNG)
+![Overlay 1]( danygbelanger.github.io/images/overlay1.PNG)
 
-![Trigger 2](https://danygbelanger.github.io/images/4.PNG)
+![Trigger 2](https://danygbelanger.github.io/images/3.PNG)
 
-![Overlay 2](https://danygbelanger.github.io/images/5.PNG)
+![Overlay 2](https://danygbelanger.github.io/images/4.PNG)
 
-![Trigger 3](https://danygbelanger.github.io/images/6.PNG)
+![Trigger 3](https://danygbelanger.github.io/images/5.PNG)
+
+![![Overlay 3](https://danygbelanger.github.io/images/6.PNG)](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
 
 ![Overlay 3](https://www.youtube.com/embed/wL68uw_RQow?rel=0&amp;start=138&end=149)
 
@@ -50,3 +52,5 @@ title: 2018-04-12 Guerilla Game Changers
 ![Trigger 11](https://danygbelanger.github.io/images/21.PNG)
 
 ![Overlay 11](https://danygbelanger.github.io/images/22.PNG)
+
+
